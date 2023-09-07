@@ -5,8 +5,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(main main.cpp)
 
-include_directories("C:\\Users\\Danila\\vcpkg\\installed\\x64-windows\\include")
-link_directories("C:\\Users\\Danila\\vcpkg\\installed\\x64-windows\\lib")
+include_directories("C:\\Users\\user\\vcpkg\\installed\\x64-windows\\include")
+link_directories("C:\\Users\\user\\vcpkg\\installed\\x64-windows\\lib")
 
 find_package(SFML COMPONENTS system window graphics CONFIG REQUIRED)
 target_link_libraries(main PRIVATE sfml-system sfml-network sfml-graphics sfml-window)
