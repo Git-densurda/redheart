@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Danila/Desktop/C++/build/Clang 16.0.6 x86_64-pc-windows-msvc/Release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/Danila/vcpkg/installed/x64-windows/include -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\Danila\\Desktop\\C++\\main.cpp",
+  "file": "C:\\Users\\Danila\\Desktop\\C++\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
